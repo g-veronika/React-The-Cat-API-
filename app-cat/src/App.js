@@ -18,10 +18,10 @@ function App() {
     })
 
   }, [])
-  
+
   return (
     <div className="App">
-     
+      {dataImage && <img src={dataImage} alt="cat image" style={{width: "500px"}}/>}
     </div>
   );
 }
