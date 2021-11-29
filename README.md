@@ -1,4 +1,4 @@
 # React-The-Cat-API-
 
-Une petite appli pour vous montrer les photos de chats random. 
-JavaScript(React)
+Une petite appli pour vous montrer des photos de chats. 
+JavaScript(React), The Cat API (<i>https://thecatapi.com/</i>)
